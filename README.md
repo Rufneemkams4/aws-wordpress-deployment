@@ -1,20 +1,21 @@
-# aws-wordpress-deployment
+ # AWS WordPress Deployment (LAMP Stack on EC2)
 Deploying WordPress on AWS EC2 using Linux, Apache, MySQL, PHP
 
 # AWS WordPress Deployment Project
 
-## Overview
+## Project Overview
 
-This project demonstrates deploying a WordPress website on a Linux server hosted on AWS EC2. The goal was to practice cloud infrastructure deployment and Linux web server administration.
+This project demonstrates how to deploy a WordPress website on AWS EC2 using a Linux server and a LAMP stack (Linux, Apache, MySQL, PHP).
 
 ## Technologies Used
 
-AWS EC2
-Linux
-Apache
-MySQL
-PHP
-SSH
+- AWS EC2
+- Linux
+- Apache
+- MySQL
+- PHP
+- WordPress
+- Bash
 
 ## Skills Demonstrated
 
